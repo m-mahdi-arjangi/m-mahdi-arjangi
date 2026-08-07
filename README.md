@@ -1,119 +1,200 @@
-# Hi there, I'm Mahdi Arjangi 👋
+<div align="center">
 
-<p align="center">
-  <strong>Computer Engineering Student</strong><br>
-  Passionate about Artificial Intelligence, Bioinformatics and Software Development
+<img src="banner.png" width="100%" alt="Mahdi Arjangi Banner"/>
+
+# Hi, I'm Mahdi Arjangi 👋
+
+### Computer Engineering Student • Front-End Developer • Future AI & Bioinformatics Researcher
+
+<p>
+  <a href="mailto:mahdiarjangi1383@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/>
+
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+</p>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+I'm a **Computer Engineering student** with a strong passion for **Artificial Intelligence**, **Bioinformatics**, and **Software Engineering**.
+
+Alongside my studies, I work as a **Front-End Developer**, building production web applications using modern technologies.
+
+My current focus is transitioning from software engineering into **AI-driven Bioinformatics research**, with the long-term goal of pursuing a **fully funded Master's or PhD**.
+
+---
+
+# 🚀 Current Journey
+
+```text
+Computer Engineering
+        │
+        ▼
+Professional Front-End Development
+        │
+        ▼
+Python & Data Science
+        │
+        ▼
+Machine Learning
+        │
+        ▼
+Bioinformatics
+        │
+        ▼
+Research & Graduate School
+```
+
+---
+
+# 📍 What I'm Working On
+
+- 💼 Developing production web applications with React & Next.js
+- 🧠 Transitioning from Software Engineering to AI & Bioinformatics
+- 🐍 Strengthening Python for Machine Learning and scientific computing
+- 📊 Learning Data Science through hands-on projects
+- 🎓 Preparing for a fully funded Master's/PhD
+
+---
+
+# 💼 Professional Experience
+
+### Front-End Developer
+
+Working on real-world applications including:
+
+🛒 Economic Labbaik E-Commerce Platform
+
+🏢 AnaMard Attendance Management System
+
+### Daily Technologies
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,git,github,gitlab,vscode,webstorm" />
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 🧠 Research Interests
 
-I'm a Computer Engineering Student with a strong interest in Artificial Intelligence, Bioinformatics, and Data Science.
-
-Currently, I'm working as a Front-End Developer while continuously learning Python, Machine Learning, and scientific programming to prepare for graduate studies and research.
-
-My long-term goal is to pursue a fully funded Master's/PhD program in AI & Bioinformatics and contribute to impactful research.
-
----
-
-## 🚀 Current Focus
-
-- 🧬 Learning Bioinformatics
-- 🤖 Studying Machine Learning
-- 🐍 Improving Python for Data Science
-- 📊 Working with scientific datasets
-- 📚 Preparing for IELTS
-- 🎯 Building a strong research portfolio
+- Artificial Intelligence
+- Bioinformatics
+- Machine Learning
+- Data Science
+- Computational Biology
+- Gene Expression Analysis
+- Medical AI
 
 ---
 
-## 💼 Work Experience
+# 🛠 Tech Stack
 
-**Front-End Developer**
+### Languages
 
-Currently working on real-world web applications including:
+<p>
 
-- 🛒 E-commerce Platform
-- 🏢 Enterprise Attendance Management System
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
 
-### Technologies
+</p>
 
-- React
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Git
-- GitLab
+### Frameworks
 
----
+<p>
 
-## 🛠 Tech Stack
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 
-### Programming Languages
-
-- Python
-- JavaScript
-- TypeScript
-
-### Front-End
-
-- React
-- Next.js
-- HTML5
-- CSS3
-- Tailwind CSS
+</p>
 
 ### Tools
 
-- Git
-- GitHub
-- GitLab
-- VS Code
-- WebStorm
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,webstorm" />
+
+</p>
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - NumPy
 - Pandas
 - Scikit-learn
-- Data Analysis
 - Machine Learning
+- Data Visualization
 - Bioinformatics
+- Scientific Programming
 
 ---
 
-## 📌 2026 Goals
+# 🎯 2026 Goals
 
-- Build strong Machine Learning projects
-- Learn Bioinformatics fundamentals
-- Publish my first research paper
-- Contribute to open-source projects
-- Achieve IELTS 7+
-- Apply for fully funded graduate programs
-
----
-
-## 📈 GitHub Goals
-
-I use GitHub to document my learning journey and research projects.
-
-Upcoming repositories will focus on:
-
-- Python
-- Machine Learning
-- Data Science
-- Bioinformatics
-- AI Projects
+- ✅ Become highly proficient in Python
+- 🔄 Master Machine Learning fundamentals
+- 🔄 Learn Bioinformatics deeply
+- 🔄 Build research-oriented projects
+- 🔄 Publish my first scientific paper
+- 🔄 Achieve IELTS 7+
+- 🔄 Get admitted to a fully funded graduate program
 
 ---
 
-## 📫 Contact
+# 📂 Featured Projects
 
-📧 Email: **mahdiarjangi1383@gmail.com**
+Coming soon...
+
+- Python for Data Science
+- Machine Learning Algorithms
+- Bioinformatics Toolkit
+- Gene Expression Analysis
+- Data Visualization
+- Research Projects
 
 ---
 
-> *"Every expert was once a beginner who never gave up."*
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi-arjangi&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdi-arjangi&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Contact
+
+📧 **mahdiarjangi1383@gmail.com**
+
+---
+
+<div align="center">
+
+## "Turning Data Into Discovery"
+
+*Code • Learn • Build • Research • Impact*
+
+</div>
