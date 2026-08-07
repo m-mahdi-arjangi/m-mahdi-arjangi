@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" width="100%" alt="Mahdi Arjangi Banner"/>
+<img src="./banner.png" width="100%" alt="Mahdi Arjangi Banner"/>
 
 # Hi, I'm Mahdi Arjangi 👋
 
