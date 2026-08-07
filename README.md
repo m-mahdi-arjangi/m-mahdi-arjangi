@@ -1,12 +1,11 @@
 <div align="center">
 
 <img src="./banner.png" width="100%" alt="Mahdi Arjangi Banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=2E9FFF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Front-End+Developer;Learning+Machine+Learning;Learning+Bioinformatics;Building+Projects+Every+Week" />
 
 # Hi, I'm Mahdi Arjangi 👋
 
-### Computer Engineering Student • Front-End Developer • Future AI & Bioinformatics Researcher
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=2E9FFF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Front-End+Developer;Learning+Machine+Learning;Learning+Bioinformatics;Building+Projects+Every+Week" />
+### Computer Engineering Student • Front-End Developer • Aspiring AI & Bioinformatics Researcher
 
 </div>
 
@@ -51,7 +50,7 @@ Research & Graduate School
 - 🧠 Transitioning from Software Engineering to AI & Bioinformatics
 - 🐍 Strengthening Python for Machine Learning and scientific computing
 - 📊 Learning Data Science through hands-on projects
-- 🎓 Preparing for a fully funded Master's/PhD
+- 📚 Reading research papers in AI & Bioinformatics
 
 ---
 
@@ -59,18 +58,15 @@ Research & Graduate School
 
 ### Front-End Developer
 
-Working on real-world applications including:
+Currently contributing to real-world applications including:
 
-🛒 Economic Labbaik E-Commerce Platform
-
-🏢 AnaMard Attendance Management System
+- 🛒 Economic E-Commerce Platform
+- 🏢 Unamard Attendance Management System
 
 ### Daily Technologies
 
-<p align="left">
-
+<p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,git,github,gitlab,vscode,webstorm" />
-
 </p>
 
 ---
@@ -80,10 +76,10 @@ Working on real-world applications including:
 - Artificial Intelligence
 - Bioinformatics
 - Machine Learning
-- Data Science
 - Computational Biology
-- Gene Expression Analysis
-- Medical AI
+- Biomedical Data Analysis
+- Explainable AI
+- Precision Medicine
 
 ---
 
@@ -92,25 +88,19 @@ Working on real-world applications including:
 ### Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
-
 </p>
 
 ### Frameworks
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-
 </p>
 
 ### Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,webstorm" />
-
 </p>
 
 ---
@@ -134,6 +124,7 @@ Working on real-world applications including:
 - 🔄 Learn Bioinformatics deeply
 - 🔄 Build research-oriented projects
 - 🔄 Publish my first scientific paper
+- 🔄 Contribute to open-source projects
 - 🔄 Achieve IELTS 7+
 - 🔄 Get admitted to a fully funded graduate program
 
@@ -141,7 +132,11 @@ Working on real-world applications including:
 
 # 📂 Featured Projects
 
-Coming soon...
+🚧 **Research portfolio is currently under development.**
+
+New projects will be added regularly as I progress through AI, Machine Learning and Bioinformatics.
+
+### Planned Repositories
 
 - Python for Data Science
 - Machine Learning Algorithms
@@ -155,9 +150,7 @@ Coming soon...
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi-arjangi&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -165,9 +158,7 @@ Coming soon...
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdi-arjangi&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
@@ -180,7 +171,7 @@ Coming soon...
 
 <div align="center">
 
-## "Turning Data Into Discovery"
+## "Building Software•Learning AI•Exploring Bioinformatics."
 
 *Code • Learn • Build • Research • Impact*
 
