@@ -6,20 +6,7 @@
 
 ### Computer Engineering Student • Front-End Developer • Future AI & Bioinformatics Researcher
 
-<p>
-  <a href="mailto:mahdiarjangi1383@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/>
-
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=2E9FFF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Front-End+Developer;Learning+Machine+Learning;Learning+Bioinformatics;Building+Projects+Every+Week" />
 
 </div>
 
