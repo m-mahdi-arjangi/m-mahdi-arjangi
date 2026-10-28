@@ -150,7 +150,7 @@ New projects will be added regularly as I progress through AI, Machine Learning 
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=m-mahdi-arjangi&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=m-mahdi-arjangi&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
@@ -158,7 +158,7 @@ New projects will be added regularly as I progress through AI, Machine Learning 
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m-mahdi-arjangi&theme=tokyo-night&hide_border=true"/>
+<img src="https://ghchart.rshah.org/m-mahdi-arjangi" alt="GitHub contribution graph for m-mahdi-arjangi" width="100%" />
 </p>
 
 ---
@@ -171,7 +171,7 @@ New projects will be added regularly as I progress through AI, Machine Learning 
 
 <div align="center">
 
-## "Building Software•Learning AI•Exploring Bioinformatics."
+## "Building Software • Learning AI • Exploring Bioinformatics."
 
 *Code • Learn • Build • Research • Impact*
 
