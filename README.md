@@ -150,7 +150,7 @@ New projects will be added regularly as I progress through AI, Machine Learning 
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi-arjangi&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=m-mahdi-arjangi&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -158,7 +158,7 @@ New projects will be added regularly as I progress through AI, Machine Learning 
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdi-arjangi&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=m-mahdi-arjangi&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
